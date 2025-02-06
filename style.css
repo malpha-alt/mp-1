@@ -302,5 +302,9 @@ footer a {
         padding: 1% .5%;
         margin: 1% .5%;
     }
+
+    footer p{
+        font-size: calc(1px + 2vw);
+    }
 }
 
