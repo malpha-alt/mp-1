@@ -309,14 +309,12 @@ footer a {
 
     #text li {
         font-size: calc(2px + 2.5vw);
-        margin: 0;
+        margin: 1vh;
         padding: 0;
     }
 
     #text li.date{
-        font-size: calc(2px + 3vw);
-        margin: 0;
-        padding: 0;
+        font-size: calc(2px + 2vw);
     }
 }
 
