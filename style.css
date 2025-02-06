@@ -304,7 +304,13 @@ footer a {
     }
 
     footer p{
-        font-size: calc(1px + 2vw);
+        font-size: calc(1px + 2.5vw);
+    }
+
+    #text li {
+        font-size: calc(2px + 2.5vw);
+        margin: 0;
+        padding: 0;
     }
 }
 
