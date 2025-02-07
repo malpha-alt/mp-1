@@ -3,7 +3,7 @@ function output(result) {
     outputElement.innerHTML = "Result: " + result;
     
     if (result < 0) {
-        outputElement.style.color = "#ff4444";
+        outputElement.style.color = "red";
     } else {
         outputElement.style.color = "whitesmoke";
     }
